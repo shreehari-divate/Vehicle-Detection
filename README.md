@@ -31,4 +31,5 @@ NOTE: The whole process can be done on google colab itself, for this project I t
 ## Conclusion
 <br>I can say that model performed well considering the dataset and its quality. It was not completely perfect as model was struggling to differentiate between bus and truck and car and ambulance. This might be because of various reason such as angle of photo taken or lighting or we could to try out on other models too. Overall its prediction was good.
 
-<br>Check out drive link:
+<br>Check out drive link in case result or video unable to play
+https://drive.google.com/drive/folders/1LLMnX0wUEacFEq0igWud11jTSXmzVRe0?usp=sharing
